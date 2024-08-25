@@ -1,0 +1,161 @@
+{
+  "main_category": {
+    "DataBase": "Database",
+    "Mariadb": "MariaDB",
+    "MYSQL": "MySQL",
+    "POLARDB": "PolarDB",
+    "SQL Server": "SQLServer"
+  },
+  "article_mapping": {
+    "2022/06/04": {
+      "main_category": "MySQL"
+    },
+    "2022/07/03": {
+      "main_category": "PolarDB",
+      "category": "Serverless之路",
+      "title": "无感秒切"
+    },
+    "2022/10/04": {
+      "main_category": "Database"
+    },
+    "2022/10/05": {
+      "main_category": "MySQL",
+      "category": "MySQL 深潜",
+      "title": "统计信息采集"
+    },
+    "2022/11/01": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2022/11/02": {
+      "main_category": "MySQL"
+    },
+    "2022/12/01": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2022/12/02": {
+      "main_category": "MySQL"
+    },
+    "2022/12/03": {
+      "main_category": "InnoDB",
+      "title": "Innodb 中的 Btree 实现 (一) · 引言 & insert 篇"
+    },
+    "2022/12/07": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/01/01": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/01/02": {
+      "main_category": "PolarDB"
+    },
+    "2023/01/03": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/01/04": {
+      "main_category": "MySQL"
+    },
+    "2023/02/02": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/02/03": {
+      "main_category": "Database"
+    },
+    "2023/03/01": {
+      "main_category": "PolarDB"
+    },
+    "2023/03/03": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/04/01": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/06/03": {
+      "main_category": "PolarDB"
+    },
+    "2023/07/03": {
+      "main_category": "InnoDB",
+      "title": "Innodb 中的 Btree 实现 (二) · select 篇"
+    },
+    "2023/08/02": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/08/03": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/09/03": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/10/01": {
+      "main_category": "PolarDB"
+    },
+    "2023/10/02": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/10/03": {
+      "main_category": "MySQL"
+    },
+    "2023/11/01": {
+      "main_category": "Database"
+    },
+    "2023/11/02": {
+      "main_category": "MySQL"
+    },
+    "2023/12/03": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2023/12/04": {
+      "main_category": "MySQL"
+    },
+    "2024/01/01": {
+      "main_category": "PolarDB"
+    },
+    "2024/01/02": {
+      "main_category": "MySQL"
+    },
+    "2024/01/03": {
+      "main_category": "MySQL",
+      "category": "MySQL 深潜",
+      "title": "直方图采样优化"
+    },
+    "2024/02/01": {
+      "main_category": "PolarDB"
+    },
+    "2024/02/02": {
+      "main_category": "PolarDB"
+    },
+    "2024/03/03": {
+      "main_category": "PolarDB"
+    },
+    "2024/04/01": {
+      "main_category": "MySQL"
+    },
+    "2024/05/01": {
+      "main_category": "MySQL",
+      "category": "MySQL 深潜",
+      "title": "重构后的 ROLLUP 实现"
+    },
+    "2024/05/02": {
+      "main_category": "MySQL"
+    },
+    "2024/05/03": {
+      "main_category": "InnoDB"
+    },
+    "2024/06/01": {
+      "main_category": "PolarDB"
+    },
+    "2024/06/02": {
+      "main_category": "MySQL",
+      "category": "MySQL 深潜",
+      "title": "Semijoin 丛林小道全览"
+    },
+    "2024/07/01": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2024/07/02": {
+      "main_category": "PolarDB MySQL"
+    },
+    "2024/07/03": {
+      "main_category": "PostgreSQL"
+    }
+  }
+}
