@@ -12,12 +12,12 @@
 * [Memcached](#Memcached)
 * [MongoDB](#MongoDB)
 * [MySQL](#MySQL)
-* [PG&GP](#PG&GP)
+* [PG&GP](#PGGP)
 * [POLARIS](#POLARIS)
 * [PetaData](#PetaData)
 * [PgSQL](#PgSQL)
 * [PolarDB](#PolarDB)
-* [PolarDB MySQL](#PolarDB MySQL)
+* [PolarDB MySQL](#PolarDB-MySQL)
 * [PostgreSQL](#PostgreSQL)
 * [Redis](#Redis)
 * [RocksDB](#RocksDB)
@@ -26,9 +26,6 @@
 * [TokuDB](#TokuDB)
 * [X-Engine](#X-Engine)
 * [其他](#其他)
-* [数据库系统](#数据库系统)
-* [源码分析](#源码分析)
-* [理论基础](#理论基础)
 
 # AliSQL
 |分类|时间|标题|
@@ -62,12 +59,14 @@
 |发展前沿|2020/12|[NewSQL数据库概述](http://mysql.taobao.org/monthly/2020/12/01/)
 |引擎特性|2021/03|[OLAP/HTAP列式存储引擎概述](http://mysql.taobao.org/monthly/2021/03/05/)
 |技术方向|2020/05|[下一代云原生数据库详解](http://mysql.taobao.org/monthly/2020/05/01/)
+|数据库系统|2021/10|[事物并发控制 · Two-phase Lock Protocol](http://mysql.taobao.org/monthly/2021/10/02/)
 |新特性|2020/09|[映射队列](http://mysql.taobao.org/monthly/2020/09/08/)
 |最佳实践|2021/01|[内存索引指南](http://mysql.taobao.org/monthly/2021/01/04/)
 |最佳实践|2021/01|[高性能 Hash Join 算法实现简述](http://mysql.taobao.org/monthly/2021/01/05/)
 |案例分析|2020/08|[UTF8与GBK数据库字符集](http://mysql.taobao.org/monthly/2020/08/07/)
 |理论基础|2018/10|[数据库事务隔离发展历史](http://mysql.taobao.org/monthly/2018/10/06/)
 |理论基础|2018/10|[关于一致性协议和分布式锁](http://mysql.taobao.org/monthly/2018/10/07/)
+|理论基础|2019/03|[Raft phd 论文中的pipeline 优化](http://mysql.taobao.org/monthly/2019/03/08/)
 |理论基础|2019/07|[Mass Tree](http://mysql.taobao.org/monthly/2019/07/07/)
 |理论基础|2019/09|[Palm Tree](http://mysql.taobao.org/monthly/2019/09/06/)
 |理论基础|2019/11|[Multi-ART](http://mysql.taobao.org/monthly/2019/11/05/)
@@ -580,6 +579,8 @@
 |源码分析|2022/03|[Row log分析](http://mysql.taobao.org/monthly/2022/03/02/)
 |源码分析|2022/08|[innodb 空间索引实现](http://mysql.taobao.org/monthly/2022/08/04/)
 |源码分析|2022/09|[innodb-BLOB演进与实现](http://mysql.taobao.org/monthly/2022/09/01/)
+|源码分析|2022/09|[InnoDB Redo Log 重构](http://mysql.taobao.org/monthly/2022/09/03/)
+|源码分析|2022/10|[MySQL Event 源码分析](http://mysql.taobao.org/monthly/2022/10/03/)
 |源码分析|2023/05|[鉴权过程](http://mysql.taobao.org/monthly/2023/05/03/)
 |源码分析|2023/07|[索引选择](http://mysql.taobao.org/monthly/2023/07/02/)
 |源码分析|2023/08|[庖丁解 InnoDB 之 Buffer Pool](http://mysql.taobao.org/monthly/2023/08/01/)
@@ -1029,19 +1030,3 @@
 ||2024/04|[PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/)
 ||2024/04|[如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/)
 ||2024/07|[使用PT_PERF排查线上慢SQL问题](http://mysql.taobao.org/monthly/2024/07/04/)
-
-# 数据库系统
-|分类|时间|标题|
-|---|---|---|
-|事物并发控制|2021/10|[Two-phase Lock Protocol](http://mysql.taobao.org/monthly/2021/10/02/)
-
-# 源码分析
-|分类|时间|标题|
-|---|---|---|
-||2022/09|[InnoDB Redo Log 重构](http://mysql.taobao.org/monthly/2022/09/03/)
-||2022/10|[MySQL Event 源码分析](http://mysql.taobao.org/monthly/2022/10/03/)
-
-# 理论基础
-|分类|时间|标题|
-|---|---|---|
-||2019/03|[Raft phd 论文中的pipeline 优化](http://mysql.taobao.org/monthly/2019/03/08/)
