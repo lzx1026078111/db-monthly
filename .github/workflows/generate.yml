@@ -36,8 +36,9 @@ jobs:
             echo "README changed, so commit it"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git commit -am "Automated generated"+(date +%Y%m%d)
+            git commit -am "Automated generated: "$(date +%Y%m%d)
             git push
             exit
           fi
           shell: bash
+
