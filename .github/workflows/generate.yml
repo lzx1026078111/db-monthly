@@ -40,5 +40,4 @@ jobs:
             git push
             exit
           fi
-          shell: bash
 
