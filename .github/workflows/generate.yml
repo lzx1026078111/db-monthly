@@ -38,6 +38,5 @@ jobs:
             git config user.email github-actions@github.com
             git commit -am "Automated generated: "$(date +%Y%m%d)
             git push
-            exit
           fi
 

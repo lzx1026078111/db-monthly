@@ -7,6 +7,15 @@
     "SQL Server": "SQLServer"
   },
   "article_mapping": {
+    "2019/03/08": {
+      "main_category": "Database",
+      "category": "理论基础"
+    },
+    "2021/10/02": {
+      "main_category": "Database",
+      "category": "数据库系统",
+      "title": "事物并发控制 · Two-phase Lock Protocol"
+    },
     "2022/06/04": {
       "main_category": "MySQL"
     },
@@ -14,6 +23,14 @@
       "main_category": "PolarDB",
       "category": "Serverless之路",
       "title": "无感秒切"
+    },
+    "2022/09/03": {
+      "main_category": "MySQL",
+      "category": "源码分析"
+    },
+    "2022/10/03": {
+      "main_category": "MySQL",
+      "category": "源码分析"
     },
     "2022/10/04": {
       "main_category": "Database"

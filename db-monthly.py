@@ -78,7 +78,7 @@ def write_to_markdown(post_dict: dict):
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write('# 阿里云数据库内核月报分类整理\n\n')
         for main_category in sorted(post_dict.keys(), key=lambda item: (item == '', item)):
-            f.write('* [{}](#{})\n'.format(main_category, main_category))
+            f.write('* [{}](#{})\n'.format(main_category, main_category.replace(' ', '-').replace('&','')))
         for main_category, category_dict in sorted(post_dict.items(), key=lambda item: (item[0] == '', item[0])):
             f.write('\n')
             f.write('# {}\n'.format(main_category))
