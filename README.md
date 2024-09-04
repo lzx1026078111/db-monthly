@@ -910,6 +910,7 @@
 ||2024/02|[PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/)
 ||2024/03|[PolarDB 单实例多租户模式介绍](http://mysql.taobao.org/monthly/2024/03/03/)
 ||2024/06|[PolarDB优化器功能 - 连接消除](http://mysql.taobao.org/monthly/2024/06/01/)
+||2024/08|[PolarStore弹性内存池（EMP）](http://mysql.taobao.org/monthly/2024/08/05/)
 
 # PolarDB MySQL
 |分类|时间|标题|
@@ -953,6 +954,10 @@
 |特性分析|2016/05|[逻辑结构和权限体系](http://mysql.taobao.org/monthly/2016/05/03/)
 |特性分析|2016/05|[统计信息计算方法](http://mysql.taobao.org/monthly/2016/05/09/)
 ||2024/07|[PostgreSQL 子事务探秘](http://mysql.taobao.org/monthly/2024/07/03/)
+||2024/08|[PostgreSQL 插入常量的合法性检查](http://mysql.taobao.org/monthly/2024/08/01/)
+||2024/08|[PostgreSQL MemoryContext 标准实现解读](http://mysql.taobao.org/monthly/2024/08/02/)
+||2024/08|[pg_repack 插件原理解读](http://mysql.taobao.org/monthly/2024/08/03/)
+||2024/08|[PostgreSQL blink-tree implement notes](http://mysql.taobao.org/monthly/2024/08/04/)
 
 # Redis
 |分类|时间|标题|
@@ -1030,8 +1035,3 @@
 ||2024/04|[PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/)
 ||2024/04|[如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/)
 ||2024/07|[使用PT_PERF排查线上慢SQL问题](http://mysql.taobao.org/monthly/2024/07/04/)
-||2024/08|[PostgreSQL 插入常量的合法性检查](http://mysql.taobao.org/monthly/2024/08/01/)
-||2024/08|[PostgreSQL MemoryContext 标准实现解读](http://mysql.taobao.org/monthly/2024/08/02/)
-||2024/08|[pg_repack 插件原理解读](http://mysql.taobao.org/monthly/2024/08/03/)
-||2024/08|[PostgreSQL blink-tree implement notes](http://mysql.taobao.org/monthly/2024/08/04/)
-||2024/08|[PolarStore弹性内存池（EMP）](http://mysql.taobao.org/monthly/2024/08/05/)
