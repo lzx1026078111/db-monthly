@@ -1035,3 +1035,7 @@
 ||2024/04|[PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/)
 ||2024/04|[如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/)
 ||2024/07|[使用PT_PERF排查线上慢SQL问题](http://mysql.taobao.org/monthly/2024/07/04/)
+||2024/09|[PostgreSQL 事件触发器 tag 原理简析](http://mysql.taobao.org/monthly/2024/09/01/)
+||2024/09|[MySQL 单表大数据量下的 B-tree 高度问题](http://mysql.taobao.org/monthly/2024/09/02/)
+||2024/09|[Mysql None-SPJ算子执行流程](http://mysql.taobao.org/monthly/2024/09/03/)
+||2024/09|[MySQL Index-Merge代价估算原理](http://mysql.taobao.org/monthly/2024/09/04/)
