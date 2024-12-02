@@ -295,6 +295,7 @@
 |功能分析|2015/08|[5.6 并行复制实现分析](http://mysql.taobao.org/monthly/2015/08/09/)
 |功能分析|2015/08|[MySQL表定义缓存](http://mysql.taobao.org/monthly/2015/08/10/)
 |功能改进|2014/10|[InnoDB Warmup特性](http://mysql.taobao.org/monthly/2014/10/06/)
+|功能特性|2024/11|[谓词下推增强](http://mysql.taobao.org/monthly/2024/11/02/)
 |原理介绍|2018/12|[再议MySQL的故障恢复](http://mysql.taobao.org/monthly/2018/12/04/)
 |参数优化|2015/12|[RDS MySQL参数调优最佳实践](http://mysql.taobao.org/monthly/2015/12/04/)
 |参数故事|2014/08|[timed_mutexes](http://mysql.taobao.org/monthly/2014/08/01/)
@@ -1041,3 +1042,4 @@
 ||2024/09|[Mysql None-SPJ算子执行流程](http://mysql.taobao.org/monthly/2024/09/03/)
 ||2024/09|[MySQL Index-Merge代价估算原理](http://mysql.taobao.org/monthly/2024/09/04/)
 ||2024/10|[通过 eBPF 进行跨线程的性能分析](http://mysql.taobao.org/monthly/2024/10/02/)
+||2024/11|[PostgreSQL LIKE 操作符走 B-tree 索引浅析](http://mysql.taobao.org/monthly/2024/11/01/)
