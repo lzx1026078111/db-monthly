@@ -26,6 +26,7 @@
 * [TokuDB](#TokuDB)
 * [X-Engine](#X-Engine)
 * [其他](#其他)
+* [白话 MySQL Online DDL 2](#白话-MySQL-Online-DDL-2)
 
 # AliSQL
 |分类|时间|标题|
@@ -1042,3 +1043,13 @@
 ||2024/09|[MySQL Index-Merge代价估算原理](http://mysql.taobao.org/monthly/2024/09/04/)
 ||2024/10|[通过 eBPF 进行跨线程的性能分析](http://mysql.taobao.org/monthly/2024/10/01/)
 ||2024/11|[PostgreSQL LIKE 操作符走 B-tree 索引浅析](http://mysql.taobao.org/monthly/2024/11/01/)
+||2024/12|[AWS re:Invent2024 Aurora 发布了啥 -- DSQL 篇](http://mysql.taobao.org/monthly/2024/12/01/)
+||2024/12|[MySQL优化器代码速览](http://mysql.taobao.org/monthly/2024/12/02/)
+||2024/12|[MySQL查询优化分析 - 常见慢查问题与优化方法](http://mysql.taobao.org/monthly/2024/12/03/)
+||2024/12|[PostgreSQL 慢 SQL 优化分享](http://mysql.taobao.org/monthly/2024/12/04/)
+||2024/12|[What's new in PolarDB8.4(一) prepare once](http://mysql.taobao.org/monthly/2024/12/05/)
+
+# 白话 MySQL Online DDL 2
+|分类|时间|标题|
+|---|---|---|
+||2024/12|[从 INT 列转 BIGINT 锁表看 MySQL DDL 执行过程](http://mysql.taobao.org/monthly/2024/12/06/)
