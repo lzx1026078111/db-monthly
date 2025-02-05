@@ -16,6 +16,7 @@
 * [POLARIS](#POLARIS)
 * [PetaData](#PetaData)
 * [PgSQL](#PgSQL)
+* [PlarDB MySQL](#PlarDB-MySQL)
 * [PolarDB](#PolarDB)
 * [PolarDB MySQL](#PolarDB-MySQL)
 * [PostgreSQL](#PostgreSQL)
@@ -871,6 +872,11 @@
 |追根究底|2015/06|[WAL日志空间的意外增长](http://mysql.taobao.org/monthly/2015/06/08/)
 ||2016/08|[PostgreSQL 逻辑流复制技术的秘密](http://mysql.taobao.org/monthly/2016/08/02/)
 
+# PlarDB MySQL
+|分类|时间|标题|
+|---|---|---|
+|功能特性|2025/01|[EXPLAIN DDL](http://mysql.taobao.org/monthly/2025/01/04/)
+
 # PolarDB
 |分类|时间|标题|
 |---|---|---|
@@ -1048,6 +1054,13 @@
 ||2024/12|[MySQL查询优化分析 - 常见慢查问题与优化方法](http://mysql.taobao.org/monthly/2024/12/03/)
 ||2024/12|[PostgreSQL 慢 SQL 优化分享](http://mysql.taobao.org/monthly/2024/12/04/)
 ||2024/12|[What's new in PolarDB8.4(一) prepare once](http://mysql.taobao.org/monthly/2024/12/05/)
+||2025/01|[MySQL查询优化分析-PolarDB MySQL的查询加速与优化](http://mysql.taobao.org/monthly/2025/01/01/)
+||2025/01|[PolarDB PostgreSQL OR 子句转 UNION ALL](http://mysql.taobao.org/monthly/2025/01/02/)
+||2025/01|[What's new in PolarDB8.4(二）完备的集合操作](http://mysql.taobao.org/monthly/2025/01/03/)
+||2025/01|[PolarDB PostgreSQL计划固定(Statement Outline)](http://mysql.taobao.org/monthly/2025/01/05/)
+||2025/01|[PolarDB-MYSQL 性能优化之路Cache篇](http://mysql.taobao.org/monthly/2025/01/06/)
+||2025/01|[PolarDB对ordering index代价计算的改进](http://mysql.taobao.org/monthly/2025/01/07/)
+||2025/01|[PolarDB PostgreSQL 基于代价的查询变换框架 (CBQT)](http://mysql.taobao.org/monthly/2025/01/08/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
