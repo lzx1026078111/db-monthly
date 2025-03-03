@@ -1061,6 +1061,8 @@
 ||2025/01|[PolarDB-MYSQL 性能优化之路Cache篇](http://mysql.taobao.org/monthly/2025/01/06/)
 ||2025/01|[PolarDB对ordering index代价计算的改进](http://mysql.taobao.org/monthly/2025/01/07/)
 ||2025/01|[PolarDB PostgreSQL 基于代价的查询变换框架 (CBQT)](http://mysql.taobao.org/monthly/2025/01/08/)
+||2025/02|[PolarDB MySQL跨可用区强一致解决方案](http://mysql.taobao.org/monthly/2025/02/01/)
+||2025/02|[Range-Prefix Skip Scan介绍](http://mysql.taobao.org/monthly/2025/02/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
