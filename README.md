@@ -966,6 +966,7 @@
 ||2024/08|[PostgreSQL MemoryContext 标准实现解读](http://mysql.taobao.org/monthly/2024/08/02/)
 ||2024/08|[pg_repack 插件原理解读](http://mysql.taobao.org/monthly/2024/08/03/)
 ||2024/08|[PostgreSQL blink-tree implement notes](http://mysql.taobao.org/monthly/2024/08/04/)
+||2025/03|[一文搞懂PostgreSQL逻辑复制的全部原理](http://mysql.taobao.org/monthly/2025/03/01/)
 
 # Redis
 |分类|时间|标题|
@@ -1063,6 +1064,10 @@
 ||2025/01|[PolarDB PostgreSQL 基于代价的查询变换框架 (CBQT)](http://mysql.taobao.org/monthly/2025/01/08/)
 ||2025/02|[PolarDB MySQL跨可用区强一致解决方案](http://mysql.taobao.org/monthly/2025/02/01/)
 ||2025/02|[Range-Prefix Skip Scan介绍](http://mysql.taobao.org/monthly/2025/02/02/)
+||2025/03|[PolarDB 基于共享存储的 Binlog 一写多读](http://mysql.taobao.org/monthly/2025/03/02/)
+||2025/03|[庖丁解InnoDB之B+Tree](http://mysql.taobao.org/monthly/2025/03/03/)
+||2025/03|[再演进，更全面、更极致的 PolarIndex 2.0](http://mysql.taobao.org/monthly/2025/03/04/)
+||2025/03|[窗口函数Frame优化思想](http://mysql.taobao.org/monthly/2025/03/05/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
