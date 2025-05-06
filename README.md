@@ -1068,6 +1068,8 @@
 ||2025/03|[庖丁解InnoDB之B+Tree](http://mysql.taobao.org/monthly/2025/03/03/)
 ||2025/03|[再演进，更全面、更极致的 PolarIndex 2.0](http://mysql.taobao.org/monthly/2025/03/04/)
 ||2025/03|[窗口函数Frame优化思想](http://mysql.taobao.org/monthly/2025/03/05/)
+||2025/04|[兼顾高性能 & 高可用：持续演进的 PolarDB-MySQL 存储优化技术](http://mysql.taobao.org/monthly/2025/04/01/)
+||2025/04|[PolarDB B-tree 并发控制技术演进](http://mysql.taobao.org/monthly/2025/04/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
