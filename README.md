@@ -1070,6 +1070,8 @@
 ||2025/03|[窗口函数Frame优化思想](http://mysql.taobao.org/monthly/2025/03/05/)
 ||2025/04|[兼顾高性能 & 高可用：持续演进的 PolarDB-MySQL 存储优化技术](http://mysql.taobao.org/monthly/2025/04/01/)
 ||2025/04|[PolarDB B-tree 并发控制技术演进](http://mysql.taobao.org/monthly/2025/04/02/)
+||2025/05|[FTS 源码阅读](http://mysql.taobao.org/monthly/2025/05/01/)
+||2025/05|[MySQL 无锁哈希表 LF_HASH](http://mysql.taobao.org/monthly/2025/05/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
