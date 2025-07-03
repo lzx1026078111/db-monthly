@@ -1072,6 +1072,7 @@
 ||2025/04|[PolarDB B-tree 并发控制技术演进](http://mysql.taobao.org/monthly/2025/04/02/)
 ||2025/05|[FTS 源码阅读](http://mysql.taobao.org/monthly/2025/05/01/)
 ||2025/05|[MySQL 无锁哈希表 LF_HASH](http://mysql.taobao.org/monthly/2025/05/02/)
+||2025/06|[DuckLake初探](http://mysql.taobao.org/monthly/2025/06/01/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
