@@ -1076,6 +1076,7 @@
 ||2025/07|[用了RDS MySQL，我的半同步复制终于不超时了！](http://mysql.taobao.org/monthly/2025/07/01/)
 ||2025/07|[InnoDB 二级索引 B+ 树的 Key 是什么？](http://mysql.taobao.org/monthly/2025/07/02/)
 ||2025/07|[CloudJump II：云数据库在共享存储场景下的优化与实现（发表于SIGMOD 2025）](http://mysql.taobao.org/monthly/2025/07/03/)
+||2025/08|[EMP 对 PolarDB 多场景性能优化实践](http://mysql.taobao.org/monthly/2025/08/01/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
