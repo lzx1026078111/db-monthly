@@ -1080,6 +1080,8 @@
 ||2025/09|[PolarDB-PG 实时物化视图如何支持 outer join](http://mysql.taobao.org/monthly/2025/09/01/)
 ||2025/09|[MySQL 8.0 SQL Iterator](http://mysql.taobao.org/monthly/2025/09/02/)
 ||2025/09|[浅析 DuckDB 的内存管理](http://mysql.taobao.org/monthly/2025/09/03/)
+||2025/10|[RDS MySQL：DDL实时应用功能](http://mysql.taobao.org/monthly/2025/10/01/)
+||2025/10|[庖丁解InnoDB之Lock](http://mysql.taobao.org/monthly/2025/10/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
