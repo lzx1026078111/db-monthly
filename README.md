@@ -1082,6 +1082,8 @@
 ||2025/09|[浅析 DuckDB 的内存管理](http://mysql.taobao.org/monthly/2025/09/03/)
 ||2025/10|[RDS MySQL：DDL实时应用功能](http://mysql.taobao.org/monthly/2025/10/01/)
 ||2025/10|[庖丁解InnoDB之Lock](http://mysql.taobao.org/monthly/2025/10/02/)
+||2025/11|[PolarDB Mysql OR表达式转Union All](http://mysql.taobao.org/monthly/2025/11/01/)
+||2025/11|[浅析Xtrabackup备份工具](http://mysql.taobao.org/monthly/2025/11/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
