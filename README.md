@@ -19,6 +19,7 @@
 * [PlarDB MySQL](#PlarDB-MySQL)
 * [PolarDB](#PolarDB)
 * [PolarDB MySQL](#PolarDB-MySQL)
+* [PolarDB Mysql](#PolarDB-Mysql)
 * [PostgreSQL](#PostgreSQL)
 * [Redis](#Redis)
 * [RocksDB](#RocksDB)
@@ -948,6 +949,12 @@
 ||2023/12|[PolarDB MySQL自适应查询优化-自适应行列路由](http://mysql.taobao.org/monthly/2023/12/03/)
 ||2024/07|[PolarDB MySQL 冷数据DDL优化](http://mysql.taobao.org/monthly/2024/07/01/)
 ||2024/07|[PolarDB MySQL 冷数据查询性能优化](http://mysql.taobao.org/monthly/2024/07/02/)
+
+# PolarDB Mysql
+|分类|时间|标题|
+|---|---|---|
+|新功能特性|2025/12|[join消除](http://mysql.taobao.org/monthly/2025/12/01/)
+|新功能特性|2025/12|[groupby/orderby消除](http://mysql.taobao.org/monthly/2025/12/02/)
 
 # PostgreSQL
 |分类|时间|标题|
