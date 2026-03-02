@@ -1091,6 +1091,8 @@
 ||2025/10|[庖丁解InnoDB之Lock](http://mysql.taobao.org/monthly/2025/10/02/)
 ||2025/11|[PolarDB Mysql OR表达式转Union All](http://mysql.taobao.org/monthly/2025/11/01/)
 ||2025/11|[浅析Xtrabackup备份工具](http://mysql.taobao.org/monthly/2025/11/02/)
+||2026/02|[聊聊数据库跨地域](http://mysql.taobao.org/monthly/2026/02/01/)
+||2026/02|[MySQL 遇见 DuckDB V2](http://mysql.taobao.org/monthly/2026/02/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
