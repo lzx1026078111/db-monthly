@@ -1093,6 +1093,8 @@
 ||2025/11|[浅析Xtrabackup备份工具](http://mysql.taobao.org/monthly/2025/11/02/)
 ||2026/02|[聊聊数据库跨地域](http://mysql.taobao.org/monthly/2026/02/01/)
 ||2026/02|[MySQL 遇见 DuckDB V2](http://mysql.taobao.org/monthly/2026/02/02/)
+||2026/03|[大事务实时应用](http://mysql.taobao.org/monthly/2026/03/01/)
+||2026/03|[MySQL复制延迟终结者：AliSQL 高效AI诊断和四大内核级优化](http://mysql.taobao.org/monthly/2026/03/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
