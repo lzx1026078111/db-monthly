@@ -1096,6 +1096,7 @@
 ||2026/03|[大事务实时应用](http://mysql.taobao.org/monthly/2026/03/01/)
 ||2026/03|[MySQL复制延迟终结者：AliSQL 高效AI诊断和四大内核级优化](http://mysql.taobao.org/monthly/2026/03/02/)
 ||2026/04|[PolarDB-PG 如何用研发自测系统守护数据库内核稳定性](http://mysql.taobao.org/monthly/2026/04/01/)
+||2026/05|[一站式智能检索：PolarDB AutoETL 实现自动数据流转](http://mysql.taobao.org/monthly/2026/05/01/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
