@@ -1097,6 +1097,13 @@
 ||2026/03|[MySQL复制延迟终结者：AliSQL 高效AI诊断和四大内核级优化](http://mysql.taobao.org/monthly/2026/03/02/)
 ||2026/04|[PolarDB-PG 如何用研发自测系统守护数据库内核稳定性](http://mysql.taobao.org/monthly/2026/04/01/)
 ||2026/05|[一站式智能检索：PolarDB AutoETL 实现自动数据流转](http://mysql.taobao.org/monthly/2026/05/01/)
+||2026/07|[MySQL/PostgreSQL Slot-based Buffer Manager Pin/buf_block_fix operator](http://mysql.taobao.org/monthly/2026/07/01/)
+||2026/07|[PostgreSQL Buffer Access 5 Rules](http://mysql.taobao.org/monthly/2026/07/02/)
+||2026/07|[PostgreSQL HeapTable + Pin vs MySQL InnoDB IOT + Persist cursor](http://mysql.taobao.org/monthly/2026/07/03/)
+||2026/07|[浅析 mysql binlog 提交流程](http://mysql.taobao.org/monthly/2026/07/04/)
+||2026/08|[白话 MySQL Online DDL 3: INT 列转 BIGINT，从 Online 到 Instant](http://mysql.taobao.org/monthly/2026/08/01/)
+||2026/09|[当 MySQL 遇到 DuckDB](http://mysql.taobao.org/monthly/2026/09/01/)
+||2026/09|[为什么我认为 MySQL 比 PostgreSQL 集成 DuckDB 更加的优雅?](http://mysql.taobao.org/monthly/2026/09/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
