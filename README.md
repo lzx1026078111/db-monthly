@@ -1104,6 +1104,8 @@
 ||2026/08|[白话 MySQL Online DDL 3: INT 列转 BIGINT，从 Online 到 Instant](http://mysql.taobao.org/monthly/2026/08/01/)
 ||2026/09|[当 MySQL 遇到 DuckDB](http://mysql.taobao.org/monthly/2026/09/01/)
 ||2026/09|[为什么我认为 MySQL 比 PostgreSQL 集成 DuckDB 更加的优雅?](http://mysql.taobao.org/monthly/2026/09/02/)
+||2026/10|[从 Volcano 到 Morsel：DuckDB 并行执行器的设计原理](http://mysql.taobao.org/monthly/2026/10/01/)
+||2026/10|[树怎么变成一组流水线：DuckDB 的 Pipeline 切分](http://mysql.taobao.org/monthly/2026/10/02/)
 
 # 白话 MySQL Online DDL 2
 |分类|时间|标题|
